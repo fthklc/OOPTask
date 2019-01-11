@@ -8,7 +8,7 @@ use lib "/home/fatihkilic/workspace/taskOOP/taskOOP_v6";
 use DataController;
 no lib "/home/fatihkilic/workspace/taskOOP/taskOOP_v6";
 
-
+#BAKALIM BU DEGISIKLIK GOZUKECEK MI!
 while (1)
 	{
 		print "Menu\n";
