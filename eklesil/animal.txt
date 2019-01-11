@@ -1,0 +1,3 @@
+1546431577			monkey			mammals			charlie			4
+1546431675			lion			mammals			jack			3
+1546436844			sparrow			birds			mamu			1
